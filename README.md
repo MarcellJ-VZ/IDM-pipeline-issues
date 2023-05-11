@@ -69,8 +69,6 @@ nl.vodafoneziggo.ponoi.api.exposed.sso.new_device_login.NewDeviceLoginEventProdu
 367 tests completed, 3 failed, 1 skipped
 ```
 
-`In the pipeline there are 180+ integration tests failing on master branch with just oracle tag chagne to 12c-20230213-1-pre `
-
 </br>
 </br>
 
